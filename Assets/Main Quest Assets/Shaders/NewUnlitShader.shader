@@ -1,8 +1,4 @@
-﻿// Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
-
-// Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
-
-Shader "Unlit/NewUnlitShader"
+﻿Shader "Unlit/NewUnlitShader"
 {
 	Properties{
 		_MainTex("Base (RGB)", 2D) = "" {}
